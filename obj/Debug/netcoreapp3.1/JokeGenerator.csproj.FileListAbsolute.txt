@@ -1,0 +1,13 @@
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\bin\Debug\netcoreapp3.1\JokeGenerator.exe
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\bin\Debug\netcoreapp3.1\JokeGenerator.deps.json
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\bin\Debug\netcoreapp3.1\JokeGenerator.runtimeconfig.json
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\bin\Debug\netcoreapp3.1\JokeGenerator.runtimeconfig.dev.json
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\bin\Debug\netcoreapp3.1\JokeGenerator.dll
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\bin\Debug\netcoreapp3.1\JokeGenerator.pdb
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\obj\Debug\netcoreapp3.1\JokeGenerator.csprojAssemblyReference.cache
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\obj\Debug\netcoreapp3.1\JokeGenerator.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\obj\Debug\netcoreapp3.1\JokeGenerator.AssemblyInfo.cs
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\obj\Debug\netcoreapp3.1\JokeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\obj\Debug\netcoreapp3.1\JokeGenerator.dll
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\obj\Debug\netcoreapp3.1\JokeGenerator.pdb
+C:\Users\Student\workspace\Side Projects\Joke Generator\JokeGenerator\JokeGenerator\obj\Debug\netcoreapp3.1\JokeGenerator.genruntimeconfig.cache

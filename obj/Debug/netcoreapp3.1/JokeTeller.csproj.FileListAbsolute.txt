@@ -1,0 +1,13 @@
+C:\Users\Student\workspace\Side Projects\JokeTeller\bin\Debug\netcoreapp3.1\JokeTeller.exe
+C:\Users\Student\workspace\Side Projects\JokeTeller\bin\Debug\netcoreapp3.1\JokeTeller.deps.json
+C:\Users\Student\workspace\Side Projects\JokeTeller\bin\Debug\netcoreapp3.1\JokeTeller.runtimeconfig.json
+C:\Users\Student\workspace\Side Projects\JokeTeller\bin\Debug\netcoreapp3.1\JokeTeller.runtimeconfig.dev.json
+C:\Users\Student\workspace\Side Projects\JokeTeller\bin\Debug\netcoreapp3.1\JokeTeller.dll
+C:\Users\Student\workspace\Side Projects\JokeTeller\bin\Debug\netcoreapp3.1\JokeTeller.pdb
+C:\Users\Student\workspace\Side Projects\JokeTeller\obj\Debug\netcoreapp3.1\JokeTeller.csprojAssemblyReference.cache
+C:\Users\Student\workspace\Side Projects\JokeTeller\obj\Debug\netcoreapp3.1\JokeTeller.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Side Projects\JokeTeller\obj\Debug\netcoreapp3.1\JokeTeller.AssemblyInfo.cs
+C:\Users\Student\workspace\Side Projects\JokeTeller\obj\Debug\netcoreapp3.1\JokeTeller.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Side Projects\JokeTeller\obj\Debug\netcoreapp3.1\JokeTeller.dll
+C:\Users\Student\workspace\Side Projects\JokeTeller\obj\Debug\netcoreapp3.1\JokeTeller.pdb
+C:\Users\Student\workspace\Side Projects\JokeTeller\obj\Debug\netcoreapp3.1\JokeTeller.genruntimeconfig.cache
